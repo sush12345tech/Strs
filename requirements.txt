@@ -1,0 +1,5 @@
+streamlit
+pandas
+numpy
+git+https://github.com/rongardF/tvdatafeed.git
+openpyxl
